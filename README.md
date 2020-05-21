@@ -1,2 +1,2 @@
 # Yapay Sinir Agi
- K-Means Algoritması kullanarak öğrenme gerçekleştiren form app 
+ A form application that makes learning by using K-Means algorithm.
