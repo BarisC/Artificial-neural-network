@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(342,31): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(343,35): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(349,31): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(350,35): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(388,30): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(389,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(395,30): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(396,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(408,16): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.cpp(7,31): warning C4829: Ana işlev için hatalı olabilecek parametreler. 'int main(Platform::Array<Platform::String^>^ argv)' kullanmayı düşünün
+C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\YSAodev1.2\MyForm.h(332): warning C4715: 'YSAodev12::MyForm::normalize': tüm denetim yolları değer döndürmez
+  MyForm.obj : /DEBUG:FASTLINK, yönetilen kod olduğunda desteklenmez; bağlama /DEBUG:FULL ile yeniden başlatılıyor
+  MyForm.obj : MSIL mod³l³ ile kar■²la■²ld²; MSIL iin art²ml² ba­lama devre d²■² b²rak²ld²; tam ba­lant² gerekle■tiriliyor
+  YSAodev1.2.vcxproj -> C:\Users\Baris\Desktop\Ders Notları\Yapay Sinir Ağları\YSAodev1.2\Debug\YSAodev1.2.exe
